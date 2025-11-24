@@ -1,0 +1,11 @@
+.venv/
+
+data/
+
+data_proc_steps/
+
+final_model/
+
+mbert-base/
+
+final_model/
